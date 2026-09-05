@@ -6,7 +6,7 @@ apscheduler
 aria2p
 asyncio
 beautifulsoup4
-cinemagoer
+imdbio
 cloudscraper
 cryptography
 dnspython
@@ -31,7 +31,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrofork
+pyrofork==2.2.11
 python-dotenv
 python-magic
 qbittorrent-api
@@ -45,4 +45,5 @@ uvloop==0.21.0
 xattr
 yt-dlp
 setuptools
-pymediainfo==7.0.1
+pymediainfo
+pyaes
