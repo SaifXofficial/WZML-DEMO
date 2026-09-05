@@ -50,3 +50,4 @@ xattr
 yt-dlp[default,curl-cffi]
 setuptools>=70
 setuptools-scm>=8
+pymediainfo
