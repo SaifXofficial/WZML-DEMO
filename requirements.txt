@@ -9,7 +9,6 @@ apscheduler
 aria2p
 asyncio
 cinemagoer
-cloudscraper
 cryptography
 dnspython
 feedparser
