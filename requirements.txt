@@ -49,3 +49,5 @@ setuptools
 pymediainfo
 pyaes
 telethon
+certifi
+torrentp
