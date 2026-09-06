@@ -48,4 +48,3 @@ yt-dlp
 setuptools
 pymediainfo
 pyaes
-
